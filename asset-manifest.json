@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "sampinheiro.com/static/css/main.2cce8147.chunk.css",
+    "main.js": "sampinheiro.com/static/js/main.06ec5d48.chunk.js",
+    "main.js.map": "sampinheiro.com/static/js/main.06ec5d48.chunk.js.map",
+    "runtime~main.js": "sampinheiro.com/static/js/runtime~main.2233e90f.js",
+    "runtime~main.js.map": "sampinheiro.com/static/js/runtime~main.2233e90f.js.map",
+    "static/js/2.b41502e9.chunk.js": "sampinheiro.com/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "sampinheiro.com/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "sampinheiro.com/index.html",
+    "precache-manifest.549cbe246e82a0cf89a07c1df9846907.js": "sampinheiro.com/precache-manifest.549cbe246e82a0cf89a07c1df9846907.js",
+    "service-worker.js": "sampinheiro.com/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "sampinheiro.com/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "sampinheiro.com/static/media/logo.5d5d9eef.svg"
+  }
+}
